@@ -1,7 +1,7 @@
     To Do:
 
     • backup orchestration on bunnies
-    • put rootless services in sub accounts like nextcloud
+    • put rootless services in non root sub accounts like nextcloud
     • immich setup 
     • disaster recovery 
     • put container files in this repo 
